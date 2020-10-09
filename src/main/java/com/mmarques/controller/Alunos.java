@@ -1,4 +1,4 @@
-package com.mmarques.controlle;
+package com.mmarques.controller;
 
 import com.mmarques.bo.Aluno;
 import java.util.List;
