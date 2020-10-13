@@ -2,7 +2,7 @@ package com.mmarques;
 
 import com.mmarques.bo.Aluno;
 import com.mmarques.bo.Retorno;
-import com.mmarques.controller.Alunos;
+import com.mmarques.bo.Alunos;
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;
 import javax.ws.rs.client.Entity;
